@@ -6,3 +6,4 @@ Author : Sreeja
 2.Chat screen code.
 3.Last seen code.
 4.Attachments (contacts,video,audio,) code.
+5.Hidding the last seen.
