@@ -7,3 +7,5 @@ Author : Sreeja
 3.Last seen code.
 4.Attachments (contacts,video,audio,) code.
 5.Hidding the last seen.
+6.Add audio call feature.
+7.Add video call feature.
